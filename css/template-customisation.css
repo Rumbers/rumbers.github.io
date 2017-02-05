@@ -1,0 +1,28 @@
+.navbar-brand h1
+{
+    font-weight:bold;
+    color:white;
+    font-size:22px;
+    opacity:0.9;
+}
+
+.navbar-brand h1 .brand-1{
+    font-size:36px;
+}
+
+.tech-skills .col-sm-4
+{
+    height:300px;
+}
+
+.tech-skills .col-sm-4:nth-child(4), .tech-skills .col-sm-4:nth-child(5), .tech-skills .col-sm-4:nth-child(6) {
+    border-bottom: 1px solid #f2f2f2 !important;
+    padding-top: 60px;
+    height:360px;
+}
+
+.tech-skills .col-sm-4:nth-child(7), .tech-skills .col-sm-4:nth-child(8), .tech-skills .col-sm-4:nth-child(9) {
+    border-bottom: 0;
+    padding-top: 60px;
+    height:360px;
+}
